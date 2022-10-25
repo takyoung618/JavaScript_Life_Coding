@@ -4,3 +4,4 @@
 let grades = {'egoing': 10, 'k8805': 6, 'sorialgi': 80};
 grades['egoing']    // 10
 grades['k8805']     // 6
+grades.k8805        // 6
