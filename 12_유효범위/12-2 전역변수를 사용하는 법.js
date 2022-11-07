@@ -18,4 +18,4 @@
         return MYAPP.calculator.left + MYAPP.coordinate.right;
     }
     document.write(sum());
-}())    
+}())
