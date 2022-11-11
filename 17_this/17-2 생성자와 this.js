@@ -1,4 +1,5 @@
 // 생성자 안에서 this는 어떤 의미를 갖는가?
+// 생성자 안에서의 this는 그 생성자가 만든 객체를 가리킨다.
 var funcThis = null;
 
 function Func(){
